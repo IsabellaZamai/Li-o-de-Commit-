@@ -1,6 +1,6 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
- class Servidor(BaseHTTPRequestHandler):
+    class Servidor(BaseHTTPRequestHandler):
  
     def do_GET(self):
         self.send_response(200)
