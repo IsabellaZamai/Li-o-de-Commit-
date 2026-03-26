@@ -42,3 +42,4 @@
 
 <img <img width="1447" height="909" alt="image" src="https://github.com/user-attachments/assets/c944d901-51ec-413a-b01d-7b522203c8d2" />
  <img width="1439" height="873" alt="image" src="https://github.com/user-attachments/assets/f56ff473-9515-4445-b537-267fa403b1ca" />
+ <i> imagens : Métodos>
